@@ -1,0 +1,13 @@
+pip install pubmed-parser
+pip install -U pip setuptools wheel
+pip install -U spacy
+pip install torch==1.6.0
+pip install transformers==3.4.0
+pip install pytest==5.3.2
+pip install scikit-learn==0.22.1
+pip install scipy==1.4.1
+pip install nltk>=3.6.4
+pip install transformers==4.11.0
+python OpenNRE/setup.py install 
+python OpenNRE/setup.py develop
+bash OpenNRE/benchmark/download_fewrel.sh
