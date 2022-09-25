@@ -1,0 +1,5 @@
+README.md
+opennre.egg-info/PKG-INFO
+opennre.egg-info/SOURCES.txt
+opennre.egg-info/dependency_links.txt
+opennre.egg-info/top_level.txt
