@@ -1,4 +1,4 @@
-# Relation Extration on PubMed Dataset
+# Relation Extraction on PubMed Dataset
 
 Project Objective - This project aims to formulate a better framework
 of obtaining entity relation dataset from text
