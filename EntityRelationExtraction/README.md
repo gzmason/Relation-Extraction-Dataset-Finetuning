@@ -16,4 +16,4 @@ d = Driver('API Key From Previous Step')
 d.prepareDataSet(abstracts)
 ```
 "abstracts" is a list of raw text inputs. 
-Results that contains entity pairs and their corresponding relations will be produced at ./result/result.csv as indicated at the end of the run.
+Results that contains entity pairs and their corresponding relations will be produced at ./result/result.csv as indicated at the end of this run.
