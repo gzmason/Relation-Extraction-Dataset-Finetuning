@@ -1,3 +1,7 @@
+# Python Package
+
+A python package that can run this automated pipeline in several lines of codes, together with instructions, is included in the EntityRelationExtraction folder.
+
 # Relation Extraction on PubMed Dataset
 
 Project Objective - This project aims to formulate a better framework
